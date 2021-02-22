@@ -9,7 +9,7 @@ A simple mod that shows you on the map by default.
 
 ## Compiling the plugin
 
-The `valheim-no-wear-and-tear/libs` folder should contain following DLLs:
+The `valheim-show-me/libs` folder should contain following DLLs:
 
 * 0Harmony.dll (from BepInEx)
 * BepInEx.dll (from BepInEx)
